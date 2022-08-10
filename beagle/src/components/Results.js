@@ -1,8 +1,8 @@
 import React from 'react'
-
+import resultImage from './results.jpg'
 function Results() {
   return (
-    <div>Results</div>
+    <img src={image} alt="results" />
   )
 }
 

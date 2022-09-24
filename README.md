@@ -1,5 +1,7 @@
 # Beagle
 
+My entry for the CSESoc Flagship Hackathon 2022
+
 ## What is it?
 
 A new method of finding credible news, as well as being able to figure out what kind of fake news is circulating
